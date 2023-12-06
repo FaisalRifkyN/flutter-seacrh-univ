@@ -1,10 +1,9 @@
-# flutterunbin
-
+# Search Universitas
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplikasi ini dirancang untuk mencari informasi tentang universitas tanpa perlu mengakses backend atau data. Desainnya telah dioptimalkan untuk memberikan pengalaman pengguna yang mulus dan efisien.
 
 A few resources to get you started if this is your first Flutter project:
 
